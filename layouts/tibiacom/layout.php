@@ -673,7 +673,7 @@ if(!defined('INITIALIZED'))
                                             </div>
                                             
                                             <div class="ThemeboxButton">
-                                                <form action="?subtopic=buypoints" method="post" style="padding:0px;margin:0px;">
+                                                <form action="?subtopic=accountmanagement&action=donate" method="post" style="padding:0px;margin:0px;">
                                                     <div class="BigButton" style="background-image:url(./layouts/tibiacom/images/global/buttons/sbutton_green.gif)">
                                                         <div onmouseover="MouseOverBigButton(this);" onmouseout="MouseOutBigButton(this);">
                                                             <div class="BigButtonOver" style="background-image:url(./layouts/tibiacom/images/global/buttons/sbutton_green_over.gif);"></div>
